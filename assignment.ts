@@ -98,6 +98,9 @@ function removeNegativeNumbers(array:number[]) {
     return array.filter((num) => num >= 0)
 }
 
+console.log("Something For Nothing");
+
+
 // console.log(removeNegativeNumbers(negativeArray));
 
 
